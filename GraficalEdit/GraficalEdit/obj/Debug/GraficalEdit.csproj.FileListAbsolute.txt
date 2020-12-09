@@ -1,0 +1,10 @@
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.csprojAssemblyReference.cache
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.Form1.resources
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.Properties.Resources.resources
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.csproj.GenerateResource.cache
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.csproj.CoreCompileInputs.cache
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\bin\Debug\GraficalEdit.exe.config
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\bin\Debug\GraficalEdit.exe
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\bin\Debug\GraficalEdit.pdb
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.exe
+C:\Users\Flash\source\repos\GraficalEdit\GraficalEdit\obj\Debug\GraficalEdit.pdb
